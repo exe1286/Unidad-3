@@ -1,0 +1,19 @@
+.bordeInteres {
+  border: solid;
+  background-color: royalblue;
+  display: block;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 10px;
+}
+.cvFondo {
+  background-color: mintcream;
+}
+
+.imgCv {
+  border: ridge;
+}
+
+h1 {
+  color: cornflowerblue;
+}
